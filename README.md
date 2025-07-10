@@ -20,7 +20,7 @@ This is a simple **Streamlit** web app that performs **Optical Character Recogni
 
 | Original Image | Output with Text Detection |
 |----------------|-----------------------------|
-| ![upload](Screenshot 2025-07-11 001356.png) | ![output](./example_output.png) |
+| ![upload](Screenshot 2025-07-11 001356.png) | ![output](./output.png) |
 
 ---
 
