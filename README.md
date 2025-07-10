@@ -1,0 +1,1 @@
+# Text_detect_from_image
