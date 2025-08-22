@@ -12,7 +12,7 @@ This is a simple **Streamlit** web app that performs **Optical Character Recogni
 - 📦 Performs real-time text detection using [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 - 🖼️ Displays detected text over image
 - 📝 Lists all detected text with confidence scores
-- 🚀 Runs in browser using [Streamlit](https://streamlit.io/)
+
 
 ---
 
@@ -28,7 +28,3 @@ This is a simple **Streamlit** web app that performs **Optical Character Recogni
 
 ### 🖥️ Option 1: Run Locally
 
-#### 1. Clone this repo or copy `app.py`:
-```bash
-git clone https://github.com/your-username/ocr-streamlit-app.git
-cd ocr-streamlit-app
